@@ -28,6 +28,8 @@ python ./Stage2_target_generation/main.py   # Discrete target generation
 ```python
 python ./Stage2_inference/inference.py  # Target forecasting
 ```
+## Example Checkpoint
+https://drive.google.com/file/d/18_cDNGP8yB8AT48IARivGfXzMMczJ6E-/view?usp=sharing
 
 ## Citing
 
