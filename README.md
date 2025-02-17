@@ -43,5 +43,12 @@ To cite this repository:
     version = {0.6.x},
     year = {2021},
 }
+
+@article{feng2025hdt,
+  title={HDT: Hierarchical Discrete Transformer for Multivariate Time Series Forecasting},
+  author={Feng, Shibo and Zhao, Peilin and Liu, Liu and Wu, Pengcheng and Shen, Zhiqi},
+  journal={arXiv preprint arXiv:2502.08302},
+  year={2025}
+}
 ```
 
